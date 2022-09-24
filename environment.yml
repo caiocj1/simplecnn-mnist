@@ -1,0 +1,10 @@
+name: simplecnn-env
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - numpy
+  - pytorch
+  - torchvision
+  - pytorch-lightning
+  - tensorboard
